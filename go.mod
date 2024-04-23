@@ -1,4 +1,4 @@
-module chat
+module chat/main
 
 go 1.22.2
 
